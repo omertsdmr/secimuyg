@@ -1,0 +1,6 @@
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\bin\Debug\YENİSEÇİM.exe
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\bin\Debug\YENİSEÇİM.pdb
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\obj\Debug\YENİSEÇİM.csproj.AssemblyReference.cache
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\obj\Debug\YENİSEÇİM.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\obj\Debug\YENİSEÇİM.exe
+C:\Users\TUF GAMİNG\Source\Repos\YENİSEÇİM\obj\Debug\YENİSEÇİM.pdb
